@@ -1,5 +1,5 @@
 
-> Diese Seite bei [https://dlpl-mb.github.io/ress/](https://dlpl-mb.github.io/ress/) öffnen
+> Diese Seite bei [https://dlpl-mb.github.io/ress/](https://dlpl-mb.github.io/ress/xxx) öffnen
 
 ## Als Erweiterung verwenden
 
